@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 /*
-    new cool content
     PRIME REDUCTION
 
     Given an input x:
