@@ -10,6 +10,10 @@ import java.util.Scanner;
     3. let x = p1 + p2 + ... + pk
     4. go back to step 1
 
+
+    For each integer, print the value produced
+    by prime reduction executed on that input, followed
+    by the number of times the first line of the process executed.
  */
 
 public class PrimeCreator {
